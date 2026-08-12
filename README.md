@@ -12,6 +12,9 @@
 ![](https://streak-stats.demolab.com/?user=narunsenthilkumar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=narunsenthilkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🐍 Contribution Graph
+![Snake Animation](snake.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=narunsenthilkumar&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
 
